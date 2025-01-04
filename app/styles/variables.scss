@@ -1,0 +1,251 @@
+/* Color Tokens Light Theme */
+:root,
+:root[data-theme='light'] {
+  --beiengai-elements-borderColor: theme('colors.alpha.gray.10');
+  --beiengai-elements-borderColorActive: theme('colors.accent.600');
+
+  --beiengai-elements-bg-depth-1: theme('colors.white');
+  --beiengai-elements-bg-depth-2: theme('colors.gray.50');
+  --beiengai-elements-bg-depth-3: theme('colors.gray.200');
+  --beiengai-elements-bg-depth-4: theme('colors.alpha.gray.5');
+
+  --beiengai-elements-textPrimary: theme('colors.gray.950');
+  --beiengai-elements-textSecondary: theme('colors.gray.600');
+  --beiengai-elements-textTertiary: theme('colors.gray.500');
+
+  --beiengai-elements-code-background: theme('colors.gray.100');
+  --beiengai-elements-code-text: theme('colors.gray.950');
+
+  --beiengai-elements-button-primary-background: theme('colors.alpha.accent.10');
+  --beiengai-elements-button-primary-backgroundHover: theme('colors.alpha.accent.20');
+  --beiengai-elements-button-primary-text: theme('colors.accent.500');
+
+  --beiengai-elements-button-secondary-background: theme('colors.alpha.gray.5');
+  --beiengai-elements-button-secondary-backgroundHover: theme('colors.alpha.gray.10');
+  --beiengai-elements-button-secondary-text: theme('colors.gray.950');
+
+  --beiengai-elements-button-danger-background: theme('colors.alpha.red.10');
+  --beiengai-elements-button-danger-backgroundHover: theme('colors.alpha.red.20');
+  --beiengai-elements-button-danger-text: theme('colors.red.500');
+
+  --beiengai-elements-item-contentDefault: theme('colors.alpha.gray.50');
+  --beiengai-elements-item-contentActive: theme('colors.gray.950');
+  --beiengai-elements-item-contentAccent: theme('colors.accent.700');
+  --beiengai-elements-item-contentDanger: theme('colors.red.500');
+  --beiengai-elements-item-backgroundDefault: rgba(0, 0, 0, 0);
+  --beiengai-elements-item-backgroundActive: theme('colors.alpha.gray.5');
+  --beiengai-elements-item-backgroundAccent: theme('colors.alpha.accent.10');
+  --beiengai-elements-item-backgroundDanger: theme('colors.alpha.red.10');
+
+  --beiengai-elements-loader-background: theme('colors.alpha.gray.10');
+  --beiengai-elements-loader-progress: theme('colors.accent.500');
+
+  --beiengai-elements-artifacts-background: theme('colors.white');
+  --beiengai-elements-artifacts-backgroundHover: theme('colors.alpha.gray.2');
+  --beiengai-elements-artifacts-borderColor: var(--beiengai-elements-borderColor);
+  --beiengai-elements-artifacts-inlineCode-background: theme('colors.gray.100');
+  --beiengai-elements-artifacts-inlineCode-text: var(--beiengai-elements-textPrimary);
+
+  --beiengai-elements-actions-background: theme('colors.white');
+  --beiengai-elements-actions-code-background: theme('colors.gray.800');
+
+  --beiengai-elements-messages-background: theme('colors.gray.100');
+  --beiengai-elements-messages-linkColor: theme('colors.accent.500');
+  --beiengai-elements-messages-code-background: theme('colors.gray.800');
+  --beiengai-elements-messages-inlineCode-background: theme('colors.gray.200');
+  --beiengai-elements-messages-inlineCode-text: theme('colors.gray.800');
+
+  --beiengai-elements-icon-success: theme('colors.green.500');
+  --beiengai-elements-icon-error: theme('colors.red.500');
+  --beiengai-elements-icon-primary: theme('colors.gray.950');
+  --beiengai-elements-icon-secondary: theme('colors.gray.600');
+  --beiengai-elements-icon-tertiary: theme('colors.gray.500');
+
+  --beiengai-elements-dividerColor: theme('colors.gray.100');
+
+  --beiengai-elements-prompt-background: theme('colors.alpha.white.80');
+
+  --beiengai-elements-sidebar-dropdownShadow: theme('colors.alpha.gray.10');
+  --beiengai-elements-sidebar-buttonBackgroundDefault: theme('colors.alpha.accent.10');
+  --beiengai-elements-sidebar-buttonBackgroundHover: theme('colors.alpha.accent.20');
+  --beiengai-elements-sidebar-buttonText: theme('colors.accent.700');
+
+  --beiengai-elements-preview-addressBar-background: theme('colors.gray.100');
+  --beiengai-elements-preview-addressBar-backgroundHover: theme('colors.alpha.gray.5');
+  --beiengai-elements-preview-addressBar-backgroundActive: theme('colors.white');
+  --beiengai-elements-preview-addressBar-text: var(--beiengai-elements-textSecondary);
+  --beiengai-elements-preview-addressBar-textActive: var(--beiengai-elements-textPrimary);
+
+  --beiengai-elements-terminals-background: theme('colors.white');
+  --beiengai-elements-terminals-buttonBackground: var(--beiengai-elements-bg-depth-4);
+
+  --beiengai-elements-cta-background: theme('colors.gray.100');
+  --beiengai-elements-cta-text: theme('colors.gray.950');
+
+  /* Terminal Colors */
+  --beiengai-terminal-background: var(--beiengai-elements-terminals-background);
+  --beiengai-terminal-foreground: #333333;
+  --beiengai-terminal-selection-background: #00000040;
+  --beiengai-terminal-black: #000000;
+  --beiengai-terminal-red: #cd3131;
+  --beiengai-terminal-green: #00bc00;
+  --beiengai-terminal-yellow: #949800;
+  --beiengai-terminal-blue: #0451a5;
+  --beiengai-terminal-magenta: #bc05bc;
+  --beiengai-terminal-cyan: #0598bc;
+  --beiengai-terminal-white: #555555;
+  --beiengai-terminal-brightBlack: #686868;
+  --beiengai-terminal-brightRed: #cd3131;
+  --beiengai-terminal-brightGreen: #00bc00;
+  --beiengai-terminal-brightYellow: #949800;
+  --beiengai-terminal-brightBlue: #0451a5;
+  --beiengai-terminal-brightMagenta: #bc05bc;
+  --beiengai-terminal-brightCyan: #0598bc;
+  --beiengai-terminal-brightWhite: #a5a5a5;
+}
+
+/* Color Tokens Dark Theme */
+:root,
+:root[data-theme='dark'] {
+  --beiengai-elements-borderColor: theme('colors.alpha.white.10');
+  --beiengai-elements-borderColorActive: theme('colors.accent.500');
+
+  --beiengai-elements-bg-depth-1: theme('colors.gray.950');
+  --beiengai-elements-bg-depth-2: theme('colors.gray.900');
+  --beiengai-elements-bg-depth-3: theme('colors.gray.800');
+  --beiengai-elements-bg-depth-4: theme('colors.alpha.white.5');
+
+  --beiengai-elements-textPrimary: theme('colors.white');
+  --beiengai-elements-textSecondary: theme('colors.gray.400');
+  --beiengai-elements-textTertiary: theme('colors.gray.500');
+
+  --beiengai-elements-code-background: theme('colors.gray.800');
+  --beiengai-elements-code-text: theme('colors.white');
+
+  --beiengai-elements-button-primary-background: theme('colors.alpha.accent.10');
+  --beiengai-elements-button-primary-backgroundHover: theme('colors.alpha.accent.20');
+  --beiengai-elements-button-primary-text: theme('colors.accent.500');
+
+  --beiengai-elements-button-secondary-background: theme('colors.alpha.white.5');
+  --beiengai-elements-button-secondary-backgroundHover: theme('colors.alpha.white.10');
+  --beiengai-elements-button-secondary-text: theme('colors.white');
+
+  --beiengai-elements-button-danger-background: theme('colors.alpha.red.10');
+  --beiengai-elements-button-danger-backgroundHover: theme('colors.alpha.red.20');
+  --beiengai-elements-button-danger-text: theme('colors.red.500');
+
+  --beiengai-elements-item-contentDefault: theme('colors.alpha.white.50');
+  --beiengai-elements-item-contentActive: theme('colors.white');
+  --beiengai-elements-item-contentAccent: theme('colors.accent.500');
+  --beiengai-elements-item-contentDanger: theme('colors.red.500');
+  --beiengai-elements-item-backgroundDefault: rgba(255, 255, 255, 0);
+  --beiengai-elements-item-backgroundActive: theme('colors.alpha.white.10');
+  --beiengai-elements-item-backgroundAccent: theme('colors.alpha.accent.10');
+  --beiengai-elements-item-backgroundDanger: theme('colors.alpha.red.10');
+
+  --beiengai-elements-loader-background: theme('colors.alpha.gray.10');
+  --beiengai-elements-loader-progress: theme('colors.accent.500');
+
+  --beiengai-elements-artifacts-background: theme('colors.gray.900');
+  --beiengai-elements-artifacts-backgroundHover: theme('colors.alpha.white.5');
+  --beiengai-elements-artifacts-borderColor: var(--beiengai-elements-borderColor);
+  --beiengai-elements-artifacts-inlineCode-background: theme('colors.gray.800');
+  --beiengai-elements-artifacts-inlineCode-text: theme('colors.white');
+
+  --beiengai-elements-actions-background: theme('colors.gray.900');
+  --beiengai-elements-actions-code-background: theme('colors.gray.800');
+
+  --beiengai-elements-messages-background: theme('colors.gray.800');
+  --beiengai-elements-messages-linkColor: theme('colors.accent.500');
+  --beiengai-elements-messages-code-background: theme('colors.gray.900');
+  --beiengai-elements-messages-inlineCode-background: theme('colors.gray.700');
+  --beiengai-elements-messages-inlineCode-text: var(--beiengai-elements-textPrimary);
+
+  --beiengai-elements-icon-success: theme('colors.green.400');
+  --beiengai-elements-icon-error: theme('colors.red.400');
+  --beiengai-elements-icon-primary: theme('colors.gray.950');
+  --beiengai-elements-icon-secondary: theme('colors.gray.600');
+  --beiengai-elements-icon-tertiary: theme('colors.gray.500');
+
+  --beiengai-elements-dividerColor: theme('colors.gray.100');
+
+  --beiengai-elements-prompt-background: theme('colors.alpha.gray.80');
+
+  --beiengai-elements-sidebar-dropdownShadow: theme('colors.alpha.gray.30');
+  --beiengai-elements-sidebar-buttonBackgroundDefault: theme('colors.alpha.accent.10');
+  --beiengai-elements-sidebar-buttonBackgroundHover: theme('colors.alpha.accent.20');
+  --beiengai-elements-sidebar-buttonText: theme('colors.accent.500');
+
+  --beiengai-elements-preview-addressBar-background: var(--beiengai-elements-bg-depth-1);
+  --beiengai-elements-preview-addressBar-backgroundHover: theme('colors.alpha.white.5');
+  --beiengai-elements-preview-addressBar-backgroundActive: var(--beiengai-elements-bg-depth-1);
+  --beiengai-elements-preview-addressBar-text: var(--beiengai-elements-textSecondary);
+  --beiengai-elements-preview-addressBar-textActive: var(--beiengai-elements-textPrimary);
+
+  --beiengai-elements-terminals-background: var(--beiengai-elements-bg-depth-1);
+  --beiengai-elements-terminals-buttonBackground: var(--beiengai-elements-bg-depth-3);
+
+  --beiengai-elements-cta-background: theme('colors.alpha.white.10');
+  --beiengai-elements-cta-text: theme('colors.white');
+
+  /* Terminal Colors */
+  --beiengai-terminal-background: var(--beiengai-elements-terminals-background);
+  --beiengai-terminal-foreground: #eff0eb;
+  --beiengai-terminal-selection-background: #97979b33;
+  --beiengai-terminal-black: #000000;
+  --beiengai-terminal-red: #ff5c57;
+  --beiengai-terminal-green: #5af78e;
+  --beiengai-terminal-yellow: #f3f99d;
+  --beiengai-terminal-blue: #57c7ff;
+  --beiengai-terminal-magenta: #ff6ac1;
+  --beiengai-terminal-cyan: #9aedfe;
+  --beiengai-terminal-white: #f1f1f0;
+  --beiengai-terminal-brightBlack: #686868;
+  --beiengai-terminal-brightRed: #ff5c57;
+  --beiengai-terminal-brightGreen: #5af78e;
+  --beiengai-terminal-brightYellow: #f3f99d;
+  --beiengai-terminal-brightBlue: #57c7ff;
+  --beiengai-terminal-brightMagenta: #ff6ac1;
+  --beiengai-terminal-brightCyan: #9aedfe;
+  --beiengai-terminal-brightWhite: #f1f1f0;
+}
+
+/*
+ * Element Tokens
+ *
+ * Hierarchy: Element Token -> (Element Token | Color Tokens) -> Primitives
+ */
+:root {
+  --header-height: 54px;
+  --chat-max-width: 37rem;
+  --chat-min-width: 640px;
+  --workbench-width: min(calc(100% - var(--chat-min-width)), 1536px);
+  --workbench-inner-width: var(--workbench-width);
+  --workbench-left: calc(100% - var(--workbench-width));
+
+  /* Toasts */
+  --toastify-color-progress-success: var(--beiengai-elements-icon-success);
+  --toastify-color-progress-error: var(--beiengai-elements-icon-error);
+
+  /* Terminal */
+  --beiengai-elements-terminal-backgroundColor: var(--beiengai-terminal-background);
+  --beiengai-elements-terminal-textColor: var(--beiengai-terminal-foreground);
+  --beiengai-elements-terminal-cursorColor: var(--beiengai-terminal-foreground);
+  --beiengai-elements-terminal-selection-backgroundColor: var(--beiengai-terminal-selection-background);
+  --beiengai-elements-terminal-color-black: var(--beiengai-terminal-black);
+  --beiengai-elements-terminal-color-red: var(--beiengai-terminal-red);
+  --beiengai-elements-terminal-color-green: var(--beiengai-terminal-green);
+  --beiengai-elements-terminal-color-yellow: var(--beiengai-terminal-yellow);
+  --beiengai-elements-terminal-color-blue: var(--beiengai-terminal-blue);
+  --beiengai-elements-terminal-color-magenta: var(--beiengai-terminal-magenta);
+  --beiengai-elements-terminal-color-cyan: var(--beiengai-terminal-cyan);
+  --beiengai-elements-terminal-color-white: var(--beiengai-terminal-white);
+  --beiengai-elements-terminal-color-brightBlack: var(--beiengai-terminal-brightBlack);
+  --beiengai-elements-terminal-color-brightRed: var(--beiengai-terminal-brightRed);
+  --beiengai-elements-terminal-color-brightGreen: var(--beiengai-terminal-brightGreen);
+  --beiengai-elements-terminal-color-brightYellow: var(--beiengai-terminal-brightYellow);
+  --beiengai-elements-terminal-color-brightBlue: var(--beiengai-terminal-brightBlue);
+  --beiengai-elements-terminal-color-brightMagenta: var(--beiengai-terminal-brightMagenta);
+  --beiengai-elements-terminal-color-brightCyan: var(--beiengai-terminal-brightCyan);
+  --beiengai-elements-terminal-color-brightWhite: var(--beiengai-terminal-brightWhite);
+}

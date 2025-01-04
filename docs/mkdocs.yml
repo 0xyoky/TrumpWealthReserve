@@ -1,0 +1,60 @@
+site_name: BeiengAI.Local Docs
+site_dir: ../site
+theme:
+  name: material
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+    - scheme: slate
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - toc.follow
+    - toc.integrate
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotation
+    - content.code.copy
+    # - navigation.instant
+    # - navigation.tracking
+    # - navigation.tabs.sticky
+    # - navigation.expand
+    # - content.code.annotate
+  icon:
+    repo: fontawesome/brands/github
+  # logo: assets/logo.png
+  # favicon: assets/logo.png
+repo_name: BeiengAI.Local
+repo_url: https://github.com/coleam00/beiengAI.online-any-llm
+edit_uri: ""
+
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/coleam00/beiengAI.online-any-llm
+      name: BeiengAI.Local
+    - icon: fontawesome/brands/discourse
+      link: https://thinktank.ottomator.ai/
+      name: BeiengAI.Local Discourse
+
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.arithmatex:
+      generic: true
+  - footnotes
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.mark
+  - attr_list

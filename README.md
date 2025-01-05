@@ -1,6 +1,5 @@
 # BettingAI - Advanced Sports Betting Analytics Platform 🎯
 
-![BettingAI Platform](preview.png)
 
 ## Overview
 

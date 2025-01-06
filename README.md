@@ -1,4 +1,4 @@
-# 🎮 GameBoyAI - Advanced Blockchain Analytics
+# Obvia AI - Advanced Blockchain Analytics
 
 ## 🤖 Overview
 GameBoyAI is a sophisticated blockchain analysis tool powered by artificial intelligence, designed to track and analyze Solana blockchain and PumpFun platform activities. Our proprietary algorithms leverage advanced mathematical models and machine learning techniques to provide real-time insights and predictive analytics.

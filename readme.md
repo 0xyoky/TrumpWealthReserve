@@ -1,4 +1,4 @@
-[KaawaiiAI](KawaiiAI.png)
+[KaawaiiAI](kawaiiterminal/KawaiiAI.png)
 
 # 🌸 Kawaii AI Assistant Generator 🌸
 

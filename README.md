@@ -1,5 +1,8 @@
 # NebulonAI 🧠
 
+![Mon Logo](./banner1.png)
+
+
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Version](https://img.shields.io/badge/version-0.1.0--alpha-blue)
 ![Build](https://img.shields.io/badge/build-passing-success)

@@ -2,7 +2,6 @@
 
 A modern web application showcasing advanced AI capabilities through an interactive interface.
 
-![CellsAgents Logo](public/logo.svg)
 
 ## Overview
 

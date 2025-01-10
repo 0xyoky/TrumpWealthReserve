@@ -1,3 +1,5 @@
+![Mon Logo](./miabanner.png)
+
 # miaAI 💋
 
 ![License](https://img.shields.io/badge/license-MIT-pink.svg)

@@ -1,9 +1,8 @@
-![Mon Logo](./oddsbanner.png)
+![Mon Logo](./odds_banner.png)
 
 # Odds AI Protocol
 
 <div align="center">
-  <img src="public/logo.png" alt="Odds AI Logo" width="200"/>
   <h3>Advanced AI-Powered Sports Trading Protocol</h3>
   <p>Decentralized sports betting analytics powered by machine learning</p>
 </div>

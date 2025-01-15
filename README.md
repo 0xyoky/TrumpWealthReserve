@@ -1,4 +1,4 @@
-![Mon Logo](./odds_banner.png)
+![Mon Logo](./oddsbanner.png)
 
 # Odds AI Protocol
 

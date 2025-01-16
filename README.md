@@ -1,6 +1,6 @@
 ![Mon Logo](./oddsbanner.png)
 
-# Odds AI Protocol
+# podds defAI Protocol
 
 <div align="center">
   <h3>Advanced AI-Powered Sports Trading Protocol</h3>

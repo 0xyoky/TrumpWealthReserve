@@ -103,8 +103,8 @@ Trading sports involves substantial risk of loss. Past performance is not indica
 
 ## Contact
 
-- Website: [oddsai.com](https://oddsai.xyz)
-- Twitter: [@OddsAI](https://twitter.com/OddsAI)
+- Website: [oddsai.com](https://poddsai.xyz)
+- Twitter: [@OddsAI](https://twitter.com/poddsai)
 - Telegram: coming soon
 
 ## Acknowledgments

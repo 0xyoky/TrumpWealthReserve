@@ -1,3 +1,6 @@
+![banner](./bannerpunk.png)
+
+
 # 🤖 Cyberpunk AI - Next-Gen DeFi Yield Optimization
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)

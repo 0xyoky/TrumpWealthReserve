@@ -8,9 +8,9 @@
 Cyberpunk AI is a revolutionary DeFi platform that leverages artificial intelligence to optimize yield farming strategies across multiple liquidity pools. Built on Solana for lightning-fast transactions and minimal fees, our platform introduces innovative NFT-based yield generation through virtual buildings in Punk City.
 
 ## 🌐 Live Demo
-- [Website](https://cyberpunk-ai.io)
-- [Documentation](https://docs.cyberpunk-ai.io)
-- [Whitepaper](https://cyberpunk-ai.io/whitepaper)
+- [Website](https://comingsoon.io)
+- [Documentation](https://comingsoon.io)
+- [Whitepaper](https://comingsoon.io)
 
 ## 🏗 Architecture
 
@@ -127,8 +127,6 @@ We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) f
 
 ## 🔗 Links
 - [Twitter](https://twitter.com/CyberpunkAI)
-- [Discord](https://discord.gg/cyberpunkAI)
-- [Medium](https://medium.com/@cyberpunkAI)
 - [GitHub](https://github.com/cyberpunk-ai)
 
 ## ⚠️ Disclaimer
@@ -137,4 +135,4 @@ This project is not affiliated with CD PROJEKT RED's Cyberpunk 2077. This is an 
 
 ## 📞 Support
 
-For technical support, please join our [Discord](https://discord.gg/cyberpunkAI) or email support@cyberpunk-ai.io
+For technical support, please email support@cyberpunk-ai.io

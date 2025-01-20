@@ -192,8 +192,8 @@ This software is in beta. Use at your own risk. No financial advice.
 
 ## Contact
 
-- Twitter: [@TrumpWealthReserve](https://twitter.com)
-- GitHub: [github.com/TrumpWealthReserve](https://github.com)
+- Twitter: [@TrumpReserveAI](https://twitter.com)
+- Website: [https://trumpwealthreseserve.xyz](https://www.trumpwealthreserve.xyz/)
 
 ## Acknowledgments
 

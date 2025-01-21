@@ -1,4 +1,4 @@
-![qscii](./ascii-art(1).png)
+![ascii](./ascii.png)
 
 
 #  Kaizen AI - Advanced Solana Trading Agent

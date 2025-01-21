@@ -1,4 +1,7 @@
-# 🤖 Kaizen AI - Advanced Solana Trading Agent
+![qscii](./ascii-art (1).png)
+
+
+#  Kaizen AI - Advanced Solana Trading Agent
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![AI Framework](https://img.shields.io/badge/AI%20Framework-Proprietary-purple.svg)

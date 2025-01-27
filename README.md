@@ -1,13 +1,7 @@
 ![ascii](./ascii.png)
 
 
-#  Kaizen AI - Advanced Solana Trading Agent
-
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![AI Framework](https://img.shields.io/badge/AI%20Framework-Proprietary-purple.svg)
-![Solana](https://img.shields.io/badge/Solana-Ecosystem-green.svg)
-
-## Overview
+#  Kaizen AI - Advanced Solana Trading Agent powered by DEEPSEEK AI
 
 Kaizen AI is a state-of-the-art artificial intelligence trading agent specifically designed for the Solana ecosystem. Leveraging advanced machine learning algorithms and real-time blockchain data analysis, Kaizen AI identifies profitable trading opportunities and automatically executes trades across multiple DEXs.
 

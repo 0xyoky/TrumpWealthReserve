@@ -1,10 +1,8 @@
-![Mon Logo](./banner7.png)
-
 
 # BeraTools AI Trading System
 
 <div align="center">
-  <img src="public/beratoolspp.png" alt="BeraTools Logo" width="200"/>
+ ![banner](./banner7.png)
   
   ![License](https://img.shields.io/badge/license-MIT-blue.svg)
   ![Python](https://img.shields.io/badge/DeepSeek-v2.7-red.svg)
